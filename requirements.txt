@@ -2,3 +2,4 @@ flask
 linkedin-api
 openai
 python-dotenv
+gunicorn
